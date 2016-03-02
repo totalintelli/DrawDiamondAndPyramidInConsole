@@ -1,0 +1,6 @@
+E:\Projects\DrawDiamondInConsole\DrawDiamondInConsole\bin\Debug\DrawDiamondInConsole.exe.config
+E:\Projects\DrawDiamondInConsole\DrawDiamondInConsole\bin\Debug\DrawDiamondInConsole.exe
+E:\Projects\DrawDiamondInConsole\DrawDiamondInConsole\bin\Debug\DrawDiamondInConsole.pdb
+E:\Projects\DrawDiamondInConsole\DrawDiamondInConsole\obj\Debug\DrawDiamondInConsole.csprojResolveAssemblyReference.cache
+E:\Projects\DrawDiamondInConsole\DrawDiamondInConsole\obj\Debug\DrawDiamondInConsole.exe
+E:\Projects\DrawDiamondInConsole\DrawDiamondInConsole\obj\Debug\DrawDiamondInConsole.pdb
