@@ -26,17 +26,17 @@ namespace DrawDiamondInConsole
             // 수를 사용자로부터 입력받는다.
             number = drawDiamond.Input();
 
-            //if (number > 0)
-            //{
-            //다이아몬드 이미지를 만든다.
-            drawDiamond.MakeDiamondImage(number, out image, out row, out column);
+            if (number > 0)
+            {
+                //다이아몬드 이미지를 만든다.
+                drawDiamond.MakeDiamondImage(number, out image, out row, out column);
 
             // 속이 빈 다이아몬드 이미지를 만든다
             //drawDiamond.MakeEmptyDiamondImage(number, out image, out row, out column);
 
             // 이미지를 출력한다.
             drawDiamond.Output(image, row, column);
-            //}
+            }
 
             if (number > 0)
             {
