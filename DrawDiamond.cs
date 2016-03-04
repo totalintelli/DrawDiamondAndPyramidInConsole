@@ -227,6 +227,7 @@ namespace DrawDiamondInConsole
                 if (imgType == ImageType.Pyramid)
                 {
                     i = row - 1;
+
                     while (i >= 0)
                     {
                         j = 0;
